@@ -1,0 +1,7 @@
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GFTApplication.Tests\bin\Debug\GFTApplication.Tests.dll
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GFTApplication.Tests\bin\Debug\GFTApplication.Tests.pdb
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GFTApplication.Tests\bin\Debug\GTFApplication.exe
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GFTApplication.Tests\bin\Debug\GTFApplication.pdb
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GFTApplication.Tests\obj\Debug\GFTApplication.Tests.csprojResolveAssemblyReference.cache
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GFTApplication.Tests\obj\Debug\GFTApplication.Tests.dll
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GFTApplication.Tests\obj\Debug\GFTApplication.Tests.pdb

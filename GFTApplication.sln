@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFTApplication", "GTFApplication\GFTApplication.csproj", "{842E0D26-82E8-4EC9-92E0-23A4B670453F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFTApplication.Tests", "GFTApplication.Tests\GFTApplication.Tests.csproj", "{016AE16F-D227-497C-98AE-CA9C014A8295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842E0D26-82E8-4EC9-92E0-23A4B670453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842E0D26-82E8-4EC9-92E0-23A4B670453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842E0D26-82E8-4EC9-92E0-23A4B670453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842E0D26-82E8-4EC9-92E0-23A4B670453F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016AE16F-D227-497C-98AE-CA9C014A8295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016AE16F-D227-497C-98AE-CA9C014A8295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016AE16F-D227-497C-98AE-CA9C014A8295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016AE16F-D227-497C-98AE-CA9C014A8295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

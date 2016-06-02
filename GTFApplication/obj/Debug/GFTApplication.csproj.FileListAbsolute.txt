@@ -1,0 +1,6 @@
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GTFApplication\bin\Debug\GTFApplication.exe.config
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GTFApplication\bin\Debug\GTFApplication.exe
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GTFApplication\bin\Debug\GTFApplication.pdb
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GTFApplication\obj\Debug\GTFApplication.exe
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GTFApplication\obj\Debug\GTFApplication.pdb
+c:\users\edugonch\documents\visual studio 2015\Projects\GTFApplication\GTFApplication\obj\Debug\GFTApplication.csprojResolveAssemblyReference.cache
